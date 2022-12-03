@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: sbt.pdris.task1_1.Task11Application
-
